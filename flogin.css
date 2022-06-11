@@ -1,0 +1,42 @@
+ body{
+     margin: 0;
+     padding: 0;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+     
+ }
+ table{
+     text-align: center;
+     
+     width: 300px;
+     height: 350px;
+     margin-top: 120px;
+     margin-left: 500px;
+     background: rgb(73, 183, 211);
+     border-radius: 12px;
+ }
+ #user{
+     padding: 15px;
+     border-radius: 12px;
+     margin-bottom: 10px;
+     
+     
+ }
+ #pass{
+    padding: 15px;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    
+}
+.btn-login{
+    border: 2px solid black;
+    width: 50px;
+    height: 30px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    width: 100px;
+
+}
+
+ 
